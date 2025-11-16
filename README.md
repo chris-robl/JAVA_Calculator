@@ -2,11 +2,11 @@
 This is a basic calculator, with interfaces to the user, is easy to use it, we try to give you a good experience.
 Firs of all we are in front of lot of problems:
 
---
+#
 ### How we´ll do it?
 If I am honest I don´t know, I have to find more resources, at the moment we have NEATBEANS but we need more practice for the calculator, the programm is not enough.
 
---
+---
 ### Why ?
 Above all for practice, I´ve noticed that I need a lot of practice wwith this, documentation, git, github, programming and more and what better way than start, it´s the only way to learn and improve, at least that´s what I think, also I´ll try to do and interesting tool for the students, I want that this proyect have more tools than normal calculators.
 
