@@ -8,7 +8,7 @@ If I am honest I don´t know, I have to find more resources, at the moment we ha
 
 ---
 ### Why ?
-Above all for practice, I´ve noticed that I need a lot of practice wwith this, documentation, git, github, programming and more and what better way than start, it´s the only way to learn and improve, at least that´s what I think, also I´ll try to do and interesting tool for the students, I want that this proyect have more tools than normal calculators.
+Above all for practice, I´ve noticed that I need a lot of practice with this, documentation, git, github, programming and more and what better way than start, it´s the only way to learn and improve, at least that´s what I think, also I´ll try to do and interesting tool for the students, I want that this proyect have more tools than normal calculators.
 
 ---
 ### How long is going it to take?
