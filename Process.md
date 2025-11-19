@@ -1,0 +1,5 @@
+# First day 
+In my first day I had a lot of problems one of these problems was that when I accomodated the bottons, they din´t look very good because they are so diferent, then I decided to start in another point and it was the code.
+The code was basically easy because the AI helped me a lot of, I want to stress that this proyect will be build with help of Artificiall Inteligences, one of my purpouse is to make a good proyect with these tools and take advantage on what we have in this case AI. What I made?, I work on made the buttons and the functions of them, at the moment all the bottons work, I finished the interface but it is a mockup because it desn´t have any presentation, literally is horrible but it´s the first day documenttating, I forgot one important thing, it´s not the first day working on the proyect, only is the first day with the documentation.
+This proyect will be upload in three days but I keep working on it for here because I want to learn more about all this, programming, docummentation, organization, github, git, projects, etc. 
+I think that´s all for today 18/11/25.
